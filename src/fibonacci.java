@@ -30,7 +30,7 @@ public class fibonacci {
 				}
 				else
 				{
-					System.out.println("valor fibonacci: "   + c);
+					System.out.println("valor fibonacci: "  + c);
 				}
 			}
 		}
