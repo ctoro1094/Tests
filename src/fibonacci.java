@@ -19,7 +19,7 @@ public class fibonacci {
 
 			if (c==num)
 			{
-				System.out.println("valor fibonacci: "  + c);
+				System.out.println("valor fibonacci:................. "  + c);
 				break;
 			}
 			else
@@ -30,7 +30,7 @@ public class fibonacci {
 				}
 				else
 				{
-					System.out.println("valor fibonacci: "  + c);
+					System.out.println("valor fibonacci:....................... "  + c);
 				}
 			}
 		}
